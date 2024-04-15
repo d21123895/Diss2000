@@ -1,0 +1,56 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp2000-dev-5a9d9-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492111982:role/amplify-myapp2000-dev-5a9d9-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492111982:role/amplify-myapp2000-dev-5a9d9-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-myapp2000-dev-5a9d9-deployment",
+      "UnauthRoleName": "amplify-myapp2000-dev-5a9d9-unauthRole",
+      "StackName": "amplify-myapp2000-dev-5a9d9",
+      "StackId": "arn:aws:cloudformation:eu-west-1:381492111982:stack/amplify-myapp2000-dev-5a9d9/be36a2b0-f775-11ee-93f4-067ac4bf5347",
+      "AmplifyAppId": "d26vjnrz2lpi4i"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  },
+  "live": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp2000-live-b4f51-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492111982:role/amplify-myapp2000-live-b4f51-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492111982:role/amplify-myapp2000-live-b4f51-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-myapp2000-live-b4f51-deployment",
+      "UnauthRoleName": "amplify-myapp2000-live-b4f51-unauthRole",
+      "StackName": "amplify-myapp2000-live-b4f51",
+      "StackId": "arn:aws:cloudformation:eu-west-1:381492111982:stack/amplify-myapp2000-live-b4f51/480600b0-fa98-11ee-990d-029b7faa1387",
+      "AmplifyAppId": "d26vjnrz2lpi4i"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  },
+  "livdiss": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp2000-livdiss-c64f7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492111982:role/amplify-myapp2000-livdiss-c64f7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492111982:role/amplify-myapp2000-livdiss-c64f7-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-myapp2000-livdiss-c64f7-deployment",
+      "UnauthRoleName": "amplify-myapp2000-livdiss-c64f7-unauthRole",
+      "StackName": "amplify-myapp2000-livdiss-c64f7",
+      "StackId": "arn:aws:cloudformation:eu-west-1:381492111982:stack/amplify-myapp2000-livdiss-c64f7/199e85e0-fb32-11ee-85ab-0a96b4aa94a7",
+      "AmplifyAppId": "d26vjnrz2lpi4i"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
