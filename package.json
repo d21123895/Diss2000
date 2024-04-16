@@ -26,6 +26,7 @@
       "react-app/jest"
     ]
   },
+  {"homepage": "http://d21123895.github.io/Diss2000"},
   "browserslist": {
     "production": [
       ">0.2%",
